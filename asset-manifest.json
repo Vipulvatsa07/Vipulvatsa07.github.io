@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.3ae1e3ff.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.78e0af2f.css",
+    "main.js": "/static/js/main.b1452438.js",
+    "static/media/netflix.png": "/static/media/netflix.4194294653a3a8c0e1a9.png",
+    "static/media/olx.png": "/static/media/olx.556711a9dff7483231ca.png",
+    "static/media/image.png.jpg": "/static/media/image.png.1bbc4a85be786fd6d1a4.jpg",
+    "static/media/Vipul_Vatsa_Resume.pdf": "/static/media/Vipul_Vatsa_Resume.4ac1853e5df32d61baed.pdf",
+    "static/media/buy-end.png": "/static/media/buy-end.3e0d1775617ed6d752a1.png",
+    "static/media/diary app 1.png": "/static/media/diary app 1.84c6f38bd33bdd912499.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.3ae1e3ff.js.map": "/static/js/main.3ae1e3ff.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.78e0af2f.css.map": "/static/css/main.78e0af2f.css.map",
+    "main.b1452438.js.map": "/static/js/main.b1452438.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3ae1e3ff.js"
+    "static/css/main.78e0af2f.css",
+    "static/js/main.b1452438.js"
   ]
 }
