@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.191b1fda.css",
-    "main.js": "/static/js/main.32b9a2d4.js",
+    "main.css": "/static/css/main.3b6e22cf.css",
+    "main.js": "/static/js/main.991bcc47.js",
     "static/media/netflix.png": "/static/media/netflix.4194294653a3a8c0e1a9.png",
     "static/media/olx.png": "/static/media/olx.556711a9dff7483231ca.png",
     "static/media/fw20_0863_Vipul_Vatsa_Resume.pdf": "/static/media/fw20_0863_Vipul_Vatsa_Resume.4ac1853e5df32d61baed.pdf",
@@ -13,11 +13,11 @@
     "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
     "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/index.html",
-    "main.191b1fda.css.map": "/static/css/main.191b1fda.css.map",
-    "main.32b9a2d4.js.map": "/static/js/main.32b9a2d4.js.map"
+    "main.3b6e22cf.css.map": "/static/css/main.3b6e22cf.css.map",
+    "main.991bcc47.js.map": "/static/js/main.991bcc47.js.map"
   },
   "entrypoints": [
-    "static/css/main.191b1fda.css",
-    "static/js/main.32b9a2d4.js"
+    "static/css/main.3b6e22cf.css",
+    "static/js/main.991bcc47.js"
   ]
 }
