@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.df1074d1.css",
-    "main.js": "/static/js/main.74514740.js",
+    "main.js": "/static/js/main.513fb9ff.js",
     "static/media/netflix.png": "/static/media/netflix.4194294653a3a8c0e1a9.png",
+    "static/media/img1.jpg": "/static/media/img1.a5bd8869355ee066eaf5.jpg",
     "static/media/olx.png": "/static/media/olx.556711a9dff7483231ca.png",
-    "static/media/image.png.jpg": "/static/media/image.png.1bbc4a85be786fd6d1a4.jpg",
     "static/media/fw20_0863_Vipul_Vatsa_Resume.pdf": "/static/media/fw20_0863_Vipul_Vatsa_Resume.4ac1853e5df32d61baed.pdf",
     "static/media/buy-end.png": "/static/media/buy-end.3e0d1775617ed6d752a1.png",
     "static/media/reliance.png": "/static/media/reliance.4f07eca93850d500c932.png",
@@ -14,10 +14,10 @@
     "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/index.html",
     "main.df1074d1.css.map": "/static/css/main.df1074d1.css.map",
-    "main.74514740.js.map": "/static/js/main.74514740.js.map"
+    "main.513fb9ff.js.map": "/static/js/main.513fb9ff.js.map"
   },
   "entrypoints": [
     "static/css/main.df1074d1.css",
-    "static/js/main.74514740.js"
+    "static/js/main.513fb9ff.js"
   ]
 }
